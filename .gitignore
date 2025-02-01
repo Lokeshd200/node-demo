@@ -1,0 +1,14 @@
+# Ignore environment variables (Sensitive Data)
+.env
+
+# Ignore node_modules (Unnecessary files)
+node_modules/
+
+
+# Ignore logs
+logs/
+*.log
+
+# Ignore OS/System files (Optional)
+.DS_Store
+Thumbs.db
